@@ -48,9 +48,9 @@ f.9) Ficha cadastral preenchida da Coopera.dev.br
 
 **Art. 10º** – Os membros do Conselho de Administração exercerão suas funções respeitando a Lei Cooperativista, o Código de Ética da Cooperativa, o Estatuto social e este Regimento Interno, atendendo aos interesses e objetivos sociais da cooperativa, não podendo exercer atividade paralela prejudicial que venha conflitar com o fiel cumprimento de sua função e cargo.
 
-Parágrafo 1 º - Competirá ao Conselho de Administração identificar as atividades paralelas que venham conflitar com o exercício do cargo de administração.
+**Parágrafo 1º** - Competirá ao Conselho de Administração identificar as atividades paralelas que venham conflitar com o exercício do cargo de administração.
 
-Parágrafo 2º - Verificando o conflito, o cooperado deverá cessar a atividade conflitante ou desocupar o cargo no Conselho de Administração.
+**Parágrafo 2º** - Verificando o conflito, o cooperado deverá cessar a atividade conflitante ou desocupar o cargo no Conselho de Administração.
 
 **Art. 11º** – Ao Conselho de Administração caberá zelar pelo cumprimento e aplicação deste regimento.
 
@@ -60,13 +60,13 @@ Parágrafo 2º - Verificando o conflito, o cooperado deverá cessar a atividade 
 
 **Art. 13º** - A coordenação da escala de trabalho dos serviços contratados será nomeada pelo Conselho de Administração e, deverá ser preferencialmente exercida por profissional cooperado.
 
-Parágrafo 1º - O coordenador deverá atuar no local para o qual está sendo indicado.
+**Parágrafo 1º** - O coordenador deverá atuar no local para o qual está sendo indicado.
 
-Parágrafo 2º - O coordenador, em conjunto com o Conselho de Administração, apresentará a relação dos profissionais cooperados que participarão das escalas de trabalho com as suas respectivas cargas horárias de serviços.
+**Parágrafo 2º** - O coordenador, em conjunto com o Conselho de Administração, apresentará a relação dos profissionais cooperados que participarão das escalas de trabalho com as suas respectivas cargas horárias de serviços.
 
-Parágrafo 3º - O desrespeito, pelo coordenador, às normas internas da Cooperativa, à Lei, ao Estatuto Social e a este Regimento Interno, dará ensejo à destituição do cargo de coordenação por decisão do Conselho de Administração, sem prejuízo do procedimento administrativo a ser instaurado em razão da falta cometida.
+**Parágrafo 3º** - O desrespeito, pelo coordenador, às normas internas da Cooperativa, à Lei, ao Estatuto Social e a este Regimento Interno, dará ensejo à destituição do cargo de coordenação por decisão do Conselho de Administração, sem prejuízo do procedimento administrativo a ser instaurado em razão da falta cometida.
 
-Parágrafo 4º. – O valor da remuneração do coordenador será determinada pelo Conselho de Administração.
+**Parágrafo 4º** – O valor da remuneração do coordenador será determinada pelo Conselho de Administração.
 
 **Art. 14º** - A coordenação do trabalho dos cooperados e divisão de grupos de trabalho por linguagem de programação/especialidade e principalmente as relativas à responsabilidade técnica e escalas de trabalho, em cada grupo de trabalho, cabe à Coordenação de cada área.
 
@@ -91,10 +91,10 @@ VI – Representar e defender os interesses da cooperativa junto as empresas e c
 
 **Art. 18º** – Os cooperados não podem levar a efeito qualquer discriminação ou restrição quando do atendimento aos clientes e seus pares, obrigando-se atuar com zelo, sem discriminação, prudência, respeito e educação.
 
-Parágrafo 1º - O cooperado se obriga a cumprir os horários que lhe foram incumbidos nas escalas de trabalho.
+**Parágrafo 1º** - O cooperado se obriga a cumprir os horários que lhe foram incumbidos nas escalas de trabalho.
 
-Parágrafo 2º - O cooperado é responsável direto pelo cumprimento de seus horários nas escalas de trabalho, cabendo a ele encontrar substituto no quadro cooperativo da Coopera.dev.br caso o mesmo venha a estar impossibilitado de cumpri-las.
-Parágrafo 3º - A falta injustificada as escalas de trabalho, ou aquelas que ocorram sem o prévio aviso em tempo hábil da substituição acarretará a perda da preferência titular na composição da escala, sem prejuízo da sanção administrativa no âmbito interno da Cooperativa e a comunicação a respectiva coordenação.
+**Parágrafo 2º** - O cooperado é responsável direto pelo cumprimento de seus horários nas escalas de trabalho, cabendo a ele encontrar substituto no quadro cooperativo da Coopera.dev.br caso o mesmo venha a estar impossibilitado de cumpri-las.
+**Parágrafo 3º** - A falta injustificada as escalas de trabalho, ou aquelas que ocorram sem o prévio aviso em tempo hábil da substituição acarretará a perda da preferência titular na composição da escala, sem prejuízo da sanção administrativa no âmbito interno da Cooperativa e a comunicação a respectiva coordenação.
 
 **Art. 19º** - É terminantemente vedado ao cooperado solicitar ou apresentar profissionais não cooperados para sua substituição no atendimento objeto dos contratos firmados pela Cooperativa, salvo em situação de absoluta urgência e/ou emergência, com comunicação prévia à Diretoria Executiva da Coopera.dev.br, oportunidade em que os serviços não cooperados serão pagos pelo contratante sem a responsabilidade da cooperativa.
 
@@ -106,11 +106,11 @@ Parágrafo 3º - A falta injustificada as escalas de trabalho, ou aquelas que oc
 
 **Art. 23º** - O cooperado no desempenho de sua atividade se obriga a:
 
-I - Não Solicitar do cliente pagamentos por fora de qualquer natureza.
-II - Não discriminar e/ou restringir o cliente e componentes do seu time.
-III – Respeitar as normas internas da Cooperativa, a Lei Cooperativista e os respectivos Códigos de Ética.
-IV – Tratar os demais cooperados e funcionários, no local onde estiver prestando seus serviços, com educação e respeito.
-V – Preencher a evolução de sua parte no projeto, quando for o caso.
+**I** - Não Solicitar do cliente pagamentos por fora de qualquer natureza.
+**II** - Não discriminar e/ou restringir o cliente e componentes do seu time.
+**III** – Respeitar as normas internas da Cooperativa, a Lei Cooperativista e os respectivos Códigos de Ética.
+**IV** – Tratar os demais cooperados e funcionários, no local onde estiver prestando seus serviços, com educação e respeito.
+**V** – Preencher a evolução de sua parte no projeto, quando for o caso.
 
 **Art. 24º** – É vedado ao cooperado praticar quaisquer atos com objetivo de transferir para si a relação existente entre o contratante e a Cooperativa.
 
@@ -272,13 +272,13 @@ Parágrafo 2º - Verificando o conflito, o cooperado deverá cessar a atividade 
 
 **Art. 13º** - A coordenação da escala de trabalho dos serviços contratados será nomeada pelo Conselho de Administração e, deverá ser preferencialmente exercida por profissional cooperado.
 
-Parágrafo 1º - O coordenador deverá atuar no local para o qual está sendo indicado.
+**Parágrafo 1º** - O coordenador deverá atuar no local para o qual está sendo indicado.
 
-Parágrafo 2º - O coordenador, em conjunto com o Conselho de Administração, apresentará a relação dos profissionais cooperados que participarão das escalas de trabalho com as suas respectivas cargas horárias de serviços.
+**Parágrafo 2º** - O coordenador, em conjunto com o Conselho de Administração, apresentará a relação dos profissionais cooperados que participarão das escalas de trabalho com as suas respectivas cargas horárias de serviços.
 
-Parágrafo 3º - O desrespeito, pelo coordenador, às normas internas da Cooperativa, à Lei, ao Estatuto Social e a este Regimento Interno, dará ensejo à destituição do cargo de coordenação por decisão do Conselho de Administração, sem prejuízo do procedimento administrativo a ser instaurado em razão da falta cometida.
+**Parágrafo 3º** - O desrespeito, pelo coordenador, às normas internas da Cooperativa, à Lei, ao Estatuto Social e a este Regimento Interno, dará ensejo à destituição do cargo de coordenação por decisão do Conselho de Administração, sem prejuízo do procedimento administrativo a ser instaurado em razão da falta cometida.
 
-Parágrafo 4º. – O valor da remuneração do coordenador será determinada pelo Conselho de Administração.
+**Parágrafo 4º** – O valor da remuneração do coordenador será determinada pelo Conselho de Administração.
 
 **Art. 14º** - A coordenação do trabalho dos cooperados e divisão de grupos de trabalho por linguagem de programação/especialidade e principalmente as relativas à responsabilidade técnica e escalas de trabalho, em cada grupo de trabalho, cabe à Coordenação de cada área.
 
